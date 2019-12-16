@@ -1,3 +1,4 @@
+# This is a harris corner detection and matching tools
 import sys
 import argparse
 import math
