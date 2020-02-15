@@ -43,4 +43,7 @@ from scipy.io import loadmat
 ```
 
 ## Results
-![res1.png]()
+![res1.png](/res1.png)
+![res2.png](/res2.png)
+![res3.png](/res3.png)
+![res4.png](/res4.png)
